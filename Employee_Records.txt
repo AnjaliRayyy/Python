@@ -1,0 +1,56 @@
+=== Employee Records ===
+
+ID: 101
+Name: Rohan Sharma
+Department: IT
+Salary: 65000
+
+ID: 102
+Name: Priya Singh
+Department: HR
+Salary: 55000
+
+ID: 103
+Name: Aarav Mehta
+Department: Finance
+Salary: 72000
+
+ID: 104
+Name: Anjali Verma
+Department: Development
+Salary: 80000
+
+ID: 105
+Name: Neha Kaushik
+Department: Finance
+Salary: 75000
+
+ID: 106
+Name: Ritwika Sharma
+Department: Development
+Salary: 60000 
+
+ID: 107
+Name: Priyanka Biswas
+Department: Finance
+Salary: 74000
+
+ID: 108
+Name: Rajesh Kumar
+Department: Finance
+Salary: 60000
+
+ID: 109
+Name: Aneeka Dey
+Department: HR
+Salary: 54000
+
+ID: 110
+Name: Rinku Singh
+Department: IT
+Salary: 45000
+
+ID: 111
+Name: Anish Biswas
+Department: HR
+Salary: 52000
