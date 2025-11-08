@@ -1,0 +1,128 @@
+,name,rating,avg_salary (L/year),location
+0,Franklin Templeton Investments,4.0,31.1,Hyderabad
+1,Meesho,3.7,25.1,Bangalore
+2,Microsoft Corporation,3.7,22.8,Bangalore
+3,MasterCard,3.8,20.5,Pune 
+4,Eternal Limited,3.6,18.9,Gurgaon
+5,Info Edge,3.9,20,Noida 
+6,Google,4.4,20.7,Bangalore
+7,Blend360,2.9,18.5,Hyderabad
+8,JPMorgan Chase & Co.,3.9,18.4,Bangalore
+9,HiLabs,4.3,19,Bangalore
+10,Piramal Capital Housing Finance,4.2,17,Mumbai 
+11,Goldman Sachs,3.4,15.7,Bangalore
+12,Apple,4.3,20,Bangalore
+13,Samsung,3.9,16.4,Noida 
+14,VMock,2.6,18,Gurgaon
+15,Tata AIG,4.0,15.5,Mumbai 
+16,American Express,4.1,17,Gurgaon
+17,Lowe's,4.1,15.6,Bangalore
+18,Zee Entertainment Enterprises,3.5,14,Mumbai 
+19,Air India,3.4,13.7,New Delhi 
+20,GEP Worldwide,3.6,14.9,Mumbai 
+21,Embibe,3.4,16.6,Bangalore
+22,InterGlobe Aviation,3.5,13.8,New Delhi 
+23,Micron Technology,3.6,14,Hyderabad
+24,HDFC Bank,3.8,14,Mumbai 
+25,Aditya Birla Capital,3.8,12.7,Mumbai 
+26,Nvidia,3.5,14,Pune 
+27,Eli Lilly and Company,3.7,15.3,Bangalore
+28,OneCard,3.4,13,Pune 
+29,Hero FinCorp,3.9,15,New Delhi 
+30,BCG,3.6,15.1,Gurgaon
+31,Honeywell Technology Solutions,3.7,13.5,Bangalore
+32,Swiggy,3.7,13.7,Bangalore
+33,Axtria,2.8,13.2,Gurgaon
+34,Turing,3.1,13,Bangalore
+35,EarlySalary Services,3.6,10.6,Pune 
+36,AIRBUS,3.6,12,Bangalore
+37,Tata Steel,4.0,10.3,Jamshedpur 
+38,Aditya Birla Finance,3.9,11,Mumbai 
+39,Syngenta,4.1,10.4,Pune 
+40,ICICI Bank,4.0,12.6,Mumbai 
+41,Axis Bank,3.6,10,Mumbai 
+42,Protium Finance,3.8,11.9,Mumbai 
+43,Ecolab Digital Center,3.4,11.2,Bangalore
+44,NDS InfoServ,3.5,11.1,Mumbai 
+45,Scry AI,4.1,9.6,Gurgaon
+46,Mahindra Finance,3.9,11,Mumbai 
+47,Mahindra & Mahindra,4.0,10.8,Pune 
+48,Zoho,4.2,10.9,Chennai 
+49,ZS,3.2,11.9,Pune 
+50,Blenheim Chalcot,2.7,10.5,Mumbai 
+51,Epsilon,3.7,10.1,Bangalore
+52,Jio,4.3,9.1,Mumbai 
+53,Oyo Rooms,3.1,11,Gurgaon
+54,HDFC Life,3.9,11,Mumbai 
+55,TVS Motor,3.9,9.5,Hosur 
+56,Valiance Solutions,3.4,10.5,Bangalore
+57,Bandhan Bank,3.7,10,Kolkata 
+58,MiQ Digital,3.2,10.8,Bangalore
+59,Newgen Software Technologies,3.9,9.6,Noida 
+60,LendingKart,3.5,10.6,Ahmedabad 
+61,ICICI Lombard General Insurance Company,3.6,10.5,Mumbai 
+62,Great Learning,3.6,8.5,Bangalore
+63,Loylty Rewardz Mngt,3.5,9.2,Mumbai 
+64,Tredence,3.4,8,Bangalore
+65,Incedo,3.0,10,Gurgaon
+66,Decimal Point Analytics,2.8,9.7,Mumbai 
+67,Abzooba India Infotech,4.3,9.5,Pune 
+68,Dozee,3.8,7.5,Bangalore
+69,Dun & Bradstreet,3.1,9,Mumbai 
+70,Ernst & Young,3.4,9.7,Bangalore
+71,HSBC Group,3.9,6,Bangalore
+72,Crisil,3.6,8.5,Mumbai 
+73,Subex,3.3,8.2,Bangalore
+74,NeenOpal Intelligent Solutions,3.5,6,
+75,Findability Sciences,3.8,6,Aurangabad 
+76,Intellect Design Arena,3.7,7,Chennai 
+77,Larsen & Toubro Limited,3.9,6,Chennai 
+78,TransOrg Analytics,2.7,8.3,Gurgaon
+79,Akaike Technologies,3.5,8,Bangalore
+80,Genpact,3.6,5,Hyderabad
+81,Virtusa Consulting Services,3.7,5,Hyderabad
+82,Decision Point,3.6,7,Gurgaon
+83,Morningstar,3.8,7.8,Mumbai 
+84,Cipla,4.1,6.1,Mumbai 
+85,Innovaccer,3.4,4.8,Noida 
+86,Data Sutram,2.9,7.7,Mumbai 
+87,Lumiq,3.3,6,Noida 
+88,Enquero,4.1,6.2,Bangalore
+89,NielsenIQ,3.6,6,Chennai 
+90,iElektron Technologies,3.0,6,Bangalore
+91,Teleperformance,3.8,5.3,Mumbai 
+92,Soothsayer Analytics,2.9,6.2,
+93,Tridiagonal Solutions,3.1,6,Pune 
+94,Networth corp,1.2,4.5,Bangalore
+95,Comviva Technology,2.9,5.5,Gurgaon
+96,Cyient,3.6,5.8,Hyderabad
+97,Apexon,3.3,6,Bangalore
+98,Reliance Retail,3.9,6,Mumbai 
+99,iOPEX Technologies,3.2,5.3,Chennai 
+100,Softsensor.ai,3.2,5,
+101,TuringMinds,2.4,4,
+102,Pivotchain Solutions,4.0,5,Pune 
+103,Tata Insights and Quants,2.9,5,Bangalore
+104,Blackcoffer,2.0,3,New Delhi 
+105,Celebal Technologies,3.0,2.4,Jaipur 
+106,ADA Group,3.0,4.2,
+107,N+A,3.8,3.7,Bangalore
+108,Flip Robo Technologies,3.2,3,
+109,International School of Engineering,3.4,2.2,Hyderabad
+110,Axiata Digital & Analytics,3.3,4.2,
+111,NeoSOFT,3.5,4.1,Mumbai 
+112,Freelancer.com,4.1,3.7,
+113,Digit Insurance,3.6,2,Bangalore
+114,BEPEC Solutions,4.5,3.5,Bangalore
+115,ExcelR,3.7,2.2,Bangalore
+116,AlmaBetter,4.0,2.7,
+117,Infognana Solutions,3.6,2.9,Coimbatore 
+118,Intellipaat Software Solutions,3.7,2,
+119,iNeuron.ai,4.1,2.3,
+120,Pentation Analytics,3.3,3,Mumbai 
+121,Mu Sigma,2.5,1.5,Bangalore
+122,Aiml Labs,4.8,1.5,
+123,Maxgen Technologies,4.5,1.8,Pune 
+124,Innodatatics,3.8,1.8,Hyderabad
+125,Rubixe,4.2,1.6,
+126,AI Variant,4.2,1.6,
